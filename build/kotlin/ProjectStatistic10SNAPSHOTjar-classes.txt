@@ -1,1 +1,0 @@
-/Users/kirillstoianov/IdeaProjects/ProjectStatistic/build/classes/java/main/com/haha/Application.class:/Users/kirillstoianov/IdeaProjects/ProjectStatistic/build/classes/kotlin/main/com/haha/FileUtil.class:/Users/kirillstoianov/IdeaProjects/ProjectStatistic/build/classes/kotlin/main/com/haha/Launcher.class
